@@ -1,0 +1,6 @@
+C:\Users\apranil.maharaj\source\repos\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.dll
+C:\Users\apranil.maharaj\source\repos\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+C:\Users\apranil.maharaj\source\repos\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csprojAssemblyReference.cache
+C:\Users\apranil.maharaj\source\repos\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\apranil.maharaj\source\repos\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.dll
+C:\Users\apranil.maharaj\source\repos\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb

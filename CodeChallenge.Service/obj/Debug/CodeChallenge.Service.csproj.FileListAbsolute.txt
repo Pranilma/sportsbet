@@ -1,0 +1,6 @@
+C:\personal\sb\sportsbet\CodeChallenge.Service\bin\Debug\CodeChallenge.Service.dll
+C:\personal\sb\sportsbet\CodeChallenge.Service\bin\Debug\CodeChallenge.Service.pdb
+C:\personal\sb\sportsbet\CodeChallenge.Service\obj\Debug\CodeChallenge.Service.csprojAssemblyReference.cache
+C:\personal\sb\sportsbet\CodeChallenge.Service\obj\Debug\CodeChallenge.Service.csproj.CoreCompileInputs.cache
+C:\personal\sb\sportsbet\CodeChallenge.Service\obj\Debug\CodeChallenge.Service.dll
+C:\personal\sb\sportsbet\CodeChallenge.Service\obj\Debug\CodeChallenge.Service.pdb
